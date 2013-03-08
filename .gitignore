@@ -1,3 +1,7 @@
+.idea/
+.idea/*
+.git/*
+.git/
 config.php
 admin/config.php
 
